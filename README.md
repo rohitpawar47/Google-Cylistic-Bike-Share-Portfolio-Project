@@ -103,3 +103,58 @@ The data is **accurate**, **trustworthy**, **consistent**. There are no issues w
 ## Figure1
 
 ![Member Vs Casual](images/google_figure1.png)
+
+* **Annual members** have more rides than **Casual riders**, as shown in the graph.
+
+## Figure2
+
+![Member Vs Casual](images/google_figure2.png)
+
+* The **Classic Bike** appears to be the most popular bike among both, but it is primarily used by **Annual Members**. 
+
+## Figure3
+
+![Member Vs Casual](images/google_figure3.png)
+
+* The frequency of rides for **Annual Members** increases from **June to October and remains consistent over that time period**.
+* For **Casual Riders**, the number of rides is highest from **June to September, with July appearing to be the peak month in between**.
+
+## Figure4
+
+![Member Vs Casual](images/google_figure4.png)
+
+* According to this graph, the **Average** ride length for **Casual Riders** is **higher during the entire spring season and the first months of summer**.
+* The **Average** ride length for **Annual Members** is very **consistent** throughout the year.
+
+## Figure5
+
+![Member Vs Casual](images/google_figure5.png)
+
+* **Casual members**, according to this graph, ride their bikes for **longer periods of time, especially on weekends**.
+* **Annual members** generally tend to ride their bikes in a steady manner during the week, while on **weekends they ride for a little longer**.
+
+## Figure6
+
+![Member Vs Casual](images/google_figgure6.png)
+
+# Act
+
+### Final Conclusion Based On Analysis
+
+> * Cyclistic bike share is used **differently** by **annual members and casual users**.
+
+> * During the data analysis process, it was discovered that **Annual members** prefer to ride their bikes for **everyday commuting** because they don't ride for long periods of time and have **consistency** in their weekly rides. **Casual riders**, on the other hand, primarily use bikes on **weekends for outings**. nevertheless, some casual riders also use bikes for daily commutes because some of them have short rides.
+
+> * **Casual Riders** average ride length is **higher throughout the spring season and the first months of summer**, but **Annual Members** average ride length is **fairly steady throughout the year**. The frequency of rides for **Annual Members increases from June to October** and remains consistent throughout that time period; on the other hand, the frequency of rides for Non-Annual Members increases. From **June through September**, the number of **Casual riders** is at its highest, with **July looking to be the peak month in between**.
+
+### Effective Use Of Insights
+
+> * Make an appealing annual membership package for **casual riders who utilise bikes for regular commutes**, especially for daily commuters. And that plan would include some sort of **seasonal or festive discount**, and when **promoting** the membership plan, the main focus should be on **email marketing**, with less emphasis on other media.
+
+> * And for the **casual riders who primarily use their bikes on weekends**. This set of riders should be offered the same annual membership package, but presented in a different way. There could be **coupons for some popular hot spots** for this segment of casual riders, and **social media** should be a big focus for **promotion**.
+
+> * These strategies can also be used to acquire **new clients**.
+
+### Recommendation 
+
+> * Add some extra information for deeper analysis, such as financial information, membership plan details, personally identifiable information about clients, and bike type information. It would be more beneficial in improving the marketing strategy's effectiveness.
