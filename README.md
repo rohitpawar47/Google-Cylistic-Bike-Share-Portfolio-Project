@@ -102,4 +102,4 @@ The data is **accurate**, **trustworthy**, **consistent**. There are no issues w
  
 ## Figure1
 
-![alt text](image.jpg)
+![Member Vs Casual](images/google_figure1.png)
