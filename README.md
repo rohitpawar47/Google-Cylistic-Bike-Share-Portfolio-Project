@@ -41,18 +41,54 @@ The data is **accurate**, **trustworthy**, **consistent**. There are no issues w
 
 # Process
 
-# importing libraries for data cleaning, manipulating and visualization.
+### importing libraries for data cleaning, manipulating and visualization
 
 `import os`
+
 `import pandas as pd`
+
 `from pandas.api.types import CategoricalDtype`
+
 `import numpy as np`
+
 `import seaborn as sns`
+
 `import matplotlib.pyplot as plt`
 
 `import plotly.express as px`
+
 `from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot`
+
 `init_notebook_mode(connected=True)`
 
 `import cufflinks as cf`
 
+### choosing working directory
+
+os.chdir("/Users/rohitpawar/Desktop/google-case-study")
+
+### importing CSV files
+
+mar_2021 = pd.read_csv('202103-divvy-tripdata.csv')
+
+apr_2021 = pd.read_csv('202104-divvy-tripdata.csv')
+
+may_2021 = pd.read_csv('202105-divvy-tripdata.csv')
+
+jun_2021 = pd.read_csv('202106-divvy-tripdata.csv')
+
+jul_2021 = pd.read_csv('202107-divvy-tripdata.csv')
+
+aug_2021 = pd.read_csv('202108-divvy-tripdata.csv')
+
+sep_2021 = pd.read_csv('202109-divvy-tripdata.csv')
+
+oct_2021 = pd.read_csv('202110-divvy-tripdata.csv')
+
+nov_2021 = pd.read_csv('202111-divvy-tripdata.csv')
+
+dec_2021 = pd.read_csv('202112-divvy-tripdata.csv')
+
+jan_2022 = pd.read_csv('202201-divvy-tripdata.csv')
+
+feb_2022 = pd.read_csv('202202-divvy-tripdata.csv')
